@@ -32,11 +32,11 @@ $$
 $$
 
 $$
-\sin{x}*\cos{y}+\tan{z}a+b^2=c
+\sin{x}*\cos{y}+\tan{z}
 $$
 
 $$
-
+a+b^2=c
 $$
 
 正文中的数学公式
@@ -89,4 +89,3 @@ $$
 设置超链接 Ctrl+K [百度超链接](www.baidu.com)
 
 插入图片![链接的图片](Study notes of typora.assets/logo-text.png)
-
